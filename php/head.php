@@ -21,3 +21,5 @@ p img{width:100%;border-radius: 6px;}
 </style>
 <!-- Font Awesome -->
 <script src="https://kit.fontawesome.com/99398214e6.js" crossorigin="anonymous"></script>
+<!-- Load Bludit Plugins: Site head -->
+<?php Theme::plugins('siteHead'); ?>
